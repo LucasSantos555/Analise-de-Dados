@@ -1,0 +1,7 @@
+# Dependências essenciais para o projeto de Modelagem de Consumo de Energia
+
+pandas==2.3.3
+numpy==2.3.3
+statsmodels==0.14.5
+matplotlib==3.10.7
+scikit-learn==1.7.2  # Para sklearn.metrics

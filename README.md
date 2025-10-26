@@ -28,7 +28,7 @@ O projeto foi desenvolvido em Python e requer as seguintes bibliotecas para exec
 
 ## 📂 Estrutura do Repositório (Formato Simples e Robusto)
 
-* **`Relatorio_Final.pdf`**: **Relatório Teórico Oficial (Entrega 2,0 pontos).** Contém a descrição completa do Ciclo de Vida da Ciência de Dados, $\text{AED}$, $\text{Modelagem (HAC)}$ e Conclusões Finais.
+* **`Relatorio_Final.pdf`**:  Contém a descrição completa do Ciclo de Vida da Ciência de Dados, $\text{AED}$, $\text{Modelagem (HAC)}$ e Conclusões Finais.
 * **`src/`**: Contém todos os *scripts* Python (`.py`) utilizados para $\text{ETL}$, $\text{AED}$ e **Modelagem** (ex: `01_etl_aed.py`, `02_modelagem_preliminar.py`).
 * **`data/`**: Contém as bases de dados históricas e unificadas, essenciais para a reprodutibilidade do projeto.
 * **`requirements.txt`**: Lista de dependências Python (bibliotecas) necessárias para rodar o código.

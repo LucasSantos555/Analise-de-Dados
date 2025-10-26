@@ -58,7 +58,7 @@ O projeto foi desenvolvido em Python e requer as seguintes bibliotecas para exec
     Os scripts devem ser executados em ordem. O script principal de modelagem está na pasta `src/`.
 
     ```bash
-    # Exemplo de execução, se o professor for rodar no terminal
+    
     python src/02_modelagem_preliminar.py
     ```
 
